@@ -1,7 +1,7 @@
 # RTK_GPS
 
 - 사용한 GTK GNSS 수신기: https://www.ppsoln.com/RTAP2U
-- RTK GPS가 서버가 되어 NMEA 프로토콜을 이용한 GPS신호(위도, 경도 등)를 클라이언트(우리가 만든 프로그램)에게  TCP통신으로 전달함.
+- RTK GNSS 수신기가 서버가 되어 NMEA 프로토콜을 이용한 GPS신호(위도, 경도 등)를 클라이언트(우리가 만든 프로그램)에게  TCP통신으로 전달함.
 - NMEA 프로토콜 참고: https://techlog.gurucat.net/239
 - bearing 참고: https://www.movable-type.co.uk/scripts/latlong.html
 
